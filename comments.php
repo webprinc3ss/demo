@@ -10,7 +10,12 @@
 
 <?php
 
+// Just a one line comment.
 
+/*Multi-line Comment.
+This is the second line.*/
+
+echo "Hello student";
 
 ?>
 

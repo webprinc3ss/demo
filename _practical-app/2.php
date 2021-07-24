@@ -16,9 +16,19 @@
 
 <?php
 
+$number1 = 10;
+$number2 = 20;
 
+echo $number1 + $number2 . "<br>";
+
+$numberList1 = array(10,20);
+$numberList2 = array('number' => 10);
+echo $numberList2['number'] . "<br>";
+
+echo $numberList1[0];
 
 		/* Step 1: Make 2 variables called number1 and number2 and set 1 to value 10 and the other 20:
+
 
 		  Step 2: Add the two variables and display the sum with echo:
 
